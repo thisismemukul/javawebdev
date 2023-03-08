@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:FirstJEEApp" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:FirstServletApp" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:ServletInitParamExample" serverId="My Server"/>
+</modules>
