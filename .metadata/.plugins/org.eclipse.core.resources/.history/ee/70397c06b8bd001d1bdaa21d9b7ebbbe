@@ -8,11 +8,6 @@
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
-	
-	<context-param>
-	<param-name>dp-ip</param-name>
-	<param-value></param-value>
-	</context-param>
 	<servlet>
 		<description></description>
 		<display-name>ContextParamExample</display-name>
