@@ -3,6 +3,8 @@ C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.
 \ServletInitParamExample\src\main\java
 C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2481684417.index
 \HttpRequestExample\src\main\java
+C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3216652961.index
+\StaticContentExample\src\main\java
 C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1536473498.index
 \SessionTrackingExample\src\main\java
 C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1080672189.index
