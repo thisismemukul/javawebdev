@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:HttpRequestExample" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:StaticContentExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:ApplicationScopeExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:HTTPServletResponseExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:ErrorHandlingExample" serverId="My Server"/>
