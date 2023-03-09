@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/My Server-config" deployDir="wtpwebapps" hostname="localhost" id="My Server" name="My Server" runtime-id="My Server" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="4">
-    <list key="modules" value0="FirstJEEApp::org.eclipse.jst.jee.server:FirstJEEApp::jst.web::5.0" value1="FirstServletApp::org.eclipse.jst.jee.server:FirstServletApp::jst.web::5.0" value2="ServletInitParamExample::org.eclipse.jst.jee.server:ServletInitParamExample::jst.web::5.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/My Server-config" deployDir="wtpwebapps" hostname="localhost" id="My Server" name="My Server" runtime-id="My Server" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="ApplicationScopeExample::org.eclipse.jst.jee.server:ApplicationScopeExample::jst.web::5.0" value1="SessionScopeExample::org.eclipse.jst.jee.server:SessionScopeExample::jst.web::5.0" value2="HttpRequestExample::org.eclipse.jst.jee.server:HttpRequestExample::jst.web::5.0" value3="HTTPServletResponseExample::org.eclipse.jst.jee.server:HTTPServletResponseExample::jst.web::5.0" value4="ErrorHandlingExample::org.eclipse.jst.jee.server:ErrorHandlingExample::jst.web::5.0" value5="IncludeForwardExample::org.eclipse.jst.jee.server:IncludeForwardExample::jst.web::5.0"/>
   </server>
 </servers>

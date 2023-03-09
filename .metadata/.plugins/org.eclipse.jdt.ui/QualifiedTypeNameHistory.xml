@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.servlet.Servlet"/>
+    <fullyQualifiedTypeName name="java.util.Enumeration"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.GenericServlet"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="com.errorhandlingexample.exceptions.MyException"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletContext"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

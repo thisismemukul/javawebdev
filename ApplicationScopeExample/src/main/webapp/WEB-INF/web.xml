@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns="https://jakarta.ee/xml/ns/jakartaee"
-	xmlns:web="http://xmlns.jcp.org/xml/ns/javaee"
-	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
-	version="5.0">
-	<display-name>ApplicationScopeExample</display-name>
-	<welcome-file-list>
-		<welcome-file>index.html</welcome-file>
-	</welcome-file-list>
-	
-	<context-param>
-	<param-name>dp-ip</param-name>
-	<param-value></param-value>
-	</context-param>
-	<servlet>
-		<description></description>
-		<display-name>ContextParamExample</display-name>
-		<servlet-name>ContextParamExample</servlet-name>
-		<servlet-class>com.applicationscope.servlets.ContextParamExample</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>ContextParamExample</servlet-name>
-		<url-pattern>/ContextParamExample</url-pattern>
-	</servlet-mapping>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="5.0">
+  <display-name>ApplicationScopeExample</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <context-param>
+    <param-name>db-ip</param-name>
+    <param-value>127.0.0.1</param-value>
+  </context-param>
+  <context-param>
+    <param-name>db-port</param-name>
+    <param-value>3306</param-value>
+  </context-param>
+  <servlet>
+    <description></description>
+    <display-name>ContextParamExample</display-name>
+    <servlet-name>ContextParamExample</servlet-name>
+    <servlet-class>com.applicationscope.servlets.ContextParamExample</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ContextParamExample</servlet-name>
+    <url-pattern>/ContextParamExample</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ApplicationScopeServlet1</display-name>
+    <servlet-name>ApplicationScopeServlet1</servlet-name>
+    <servlet-class>com.applicationscope.servlets.ApplicationScopeServlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ApplicationScopeServlet1</servlet-name>
+    <url-pattern>/ApplicationScopeServlet1</url-pattern>
+  </servlet-mapping>
 </web-app>
