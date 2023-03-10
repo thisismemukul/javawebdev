@@ -2,8 +2,11 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:HttpRequestExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:StaticContentExample" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPScriptlesExample" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPWellFormedExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:ApplicationScopeExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:HTTPServletResponseExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:ErrorHandlingExample" serverId="My Server"/>
   <module moduleId="org.eclipse.jst.jee.server:IncludeForwardExample" serverId="My Server"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPDirectiveExample" serverId="My Server"/>
 </modules>

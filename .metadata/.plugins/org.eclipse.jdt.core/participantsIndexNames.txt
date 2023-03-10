@@ -1,13 +1,7 @@
 INDEX VERSION 1.131
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\693330682.index
-\ServletInitParamExample\src\main\java
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2481684417.index
-\HttpRequestExample\src\main\java
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3216652961.index
-\StaticContentExample\src\main\java
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1536473498.index
-\SessionTrackingExample\src\main\java
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1080672189.index
-\FirstJEEApp\src\main\java
-C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2580043815.index
-\ErrorHandlingExample\src\main\java
+C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1792538886.index
+\JSPWellFormedExample\src\main\java
+C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1432500342.index
+\JSPScriptlesExample\src\main\java
+C:\Users\mukul.saini.in\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\357052093.index
+\JSPDirectiveExample\src\main\java

@@ -3,15 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript">
-function sayHello(){
-	alert("Hello from JEE Course.");
-}
-</script>
+<script type="text/javascript" src="js/helloJS.js"></script>
+<link rel="stylesheet" href="css/helloCSS.css"/>
 <meta charset="ISO-8859-1">
 <title>JSP Demo</title>
 </head>
 <body>
+<h1>Hello World</h1>
 	<input type="button" onClick="sayHello()" value="Say Hello"/>
 </body>
 </html>
